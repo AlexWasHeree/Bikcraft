@@ -2,5 +2,10 @@
 @import "./utils/tipografia.css";
 @import "./utils/color.css";
 @import "./global/header.css";
+
 @import "./utils/components.css";
+
 @import "./home/intro.css";
+@import "./home/tecnologia.css";
+
+@import "./bicicletas/bicicletas-lista.css";
