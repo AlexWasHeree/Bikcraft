@@ -62,7 +62,7 @@
 @media (max-width: 800px) {
   .biciletas-lista {
     padding-top: 60px;
-    padding-bottom: 600px;
+    padding-bottom: 60px;
   }
   .biciletas-lista ul {
     gap: 20px;
