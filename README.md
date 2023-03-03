@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/logo.png)
+![Logo of the project](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/logo.png)
 
 ## Technology
 
@@ -20,22 +20,22 @@ It's a simple web application made with html and css, nothing special needed to 
 
 ### 1 - When you access, you will see the Home page <3
 
-![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/intro.png)
+![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/intro.png)
 
 ### 2 - You can also see some fictional sections about eletric bikes.
 
-![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/section_1.png)
-![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/section_2.png)
+![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/section_1.png)
+![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/section_2.png)
 
 ### A gif to demonstrate better.
 
-![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/gif_home.gif)
+![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/gif_home.gif)
 
 ### 4 - Also made for mobile.
 
-![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/gif_mobile.gif)
-![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/intro_mobile.png)![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/bikes_mobile.png)
-![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/section_1_mobile.png)
+![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/gif_mobile.gif)
+![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/intro_mobile.png)![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/bikes_mobile.png)
+![Posts](https://github.com/AlexWasHeree/Bikcraft/blob/main/utils/readme/section_1_mobile.png)
 
 
 ## Features
