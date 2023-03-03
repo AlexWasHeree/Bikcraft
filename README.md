@@ -46,7 +46,7 @@ The main features of the application are:
 
 ## Links
 
-- Deploy on Vercel: bikcraft-electric-bike.vercel.app
+- Deploy on Vercel: https://bikcraft-electric-bike.vercel.app/
 - Repository: https://github.com/AlexWasHeree/Bikcraft/tree/main
 
 ## Versioning
