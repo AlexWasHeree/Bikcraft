@@ -1,4 +1,4 @@
-![Logo of the project]()
+![Logo of the project](https://github.com/AlexWasHeree/Bikcraft/blob/main/public/readme/logo.png)
 
 ## Technology
 
